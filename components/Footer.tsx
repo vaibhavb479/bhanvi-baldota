@@ -18,7 +18,7 @@ const Footer = () => {
       </div> */}
 
       <div className="flex flex-col items-center">
-        <h2 className="heading lg:max-w-[45vw]">
+        <h2 className="heading heading-footer lg:max-w-[45vw]">
           Please send the necessary <span className="text-purple">documents</span> digital.
        
         </h2>

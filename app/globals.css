@@ -82,4 +82,8 @@
   .heading {
     @apply font-bold text-4xl md:text-5xl text-center;
   }
+
+  .heading-footer{
+    padding-top: 230px;
+  }
 }
