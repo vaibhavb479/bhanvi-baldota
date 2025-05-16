@@ -52,7 +52,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Income Tax Return for the Financial Year 2023-24"
+            words="Income Tax Return for the Financial Year 2024-25"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
